@@ -9,7 +9,7 @@ I'm a Mobile Application Developer. I have 8 years experince with Objective C, S
 ## Professional Skills
 
 ### Programming Languages & Technologies
-- Swift, Objective-C, C++, C, C++
+- Swift, Objective-C, C, C++
 - HTTP(S), JSON, REST.
   
 ### Platforms & Operational Systems
