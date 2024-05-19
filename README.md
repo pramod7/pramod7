@@ -20,7 +20,7 @@ I'm a Mobile Application Developer. I have 8 years experince with Objective C, S
 - IDEs: Xcode, Visual Studio.
 - Source control: git, SVN.
 
-### Profile Visitore
+### Profile Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{pramod7}/count.svg)
 
 ## Collaboration 🤝
